@@ -2,6 +2,10 @@
 
 This repository contains a webpage that live streams official footage of NASA TV.
 
+## Usage
+
+Just head to [NASA TV](https://its-triple-s.github.io/nasa-tv-live/) to see the livestream.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE) file for details.
