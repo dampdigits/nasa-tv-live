@@ -4,7 +4,8 @@ Live-stream official footage of NASA TV.
 
 ## Usage
 
-The webpage is published on GitHub. Just visit [NASA TV](https://its-triple-s.github.io/nasa-tv-live/) to see the livestream.
+The webpage is published on GitHub.
+Visit [NASA TV](https://its-triple-s.github.io/nasa-tv-live/) to watch the livestream.
 
 ![Screenshot 2023-07-25 235310](https://github.com/its-triple-s/nasa-tv-live/assets/113439449/36b9d333-6f14-4098-8bd9-805711c9c1f9)
 
