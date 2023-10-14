@@ -14,7 +14,7 @@
 }
 
 body {
-    background-image: url("wp9073631.webp");
+    background-image: url('/wp9073631.webp');
 	background-size: cover;
 	background-repeat: repeat;
 }
